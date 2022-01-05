@@ -9,5 +9,7 @@ if you would like to add any command to the bot let us know
 
 Written in Javascript using [Discord.js](https://github.com/discordjs/discord.js)
 
-for other questions join [discord server](https://discord.gg/2YJxNtmpAd)
+for other questions/Copyright Problem join [discord server](https://discord.gg/2YJxNtmpAd)
+
+_star the repository :)_
 
