@@ -1,0 +1,29 @@
+{
+  "name": "discord",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "engines": {
+    "node": "16.6.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "bankank",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/builders": "^0.5.0",
+    "@discordjs/rest": "^0.1.0-canary.0",
+    "@top-gg/sdk": "^3.0.9",
+    "discord-api-types": "^0.22.0",
+    "discord-image-generation": "^1.4.9",
+    "discord.js": "^13.1.0",
+    "dotenv": "^8.2.0",
+    "fs": "0.0.1-security",
+    "got": "^6.7.1",
+    "moment": "^2.29.1",
+    "mongoose": "^5.11.17",
+    "pretty-ms": "^7.0.1",
+    "topgg-autoposter": "^1.1.9"
+  }
+}
