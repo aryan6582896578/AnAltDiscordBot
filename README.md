@@ -11,5 +11,7 @@ Written in Javascript using [Discord.js](https://github.com/discordjs/discord.js
 
 for other questions/Copyright Problem join [discord server](https://discord.gg/2YJxNtmpAd)
 
+Bot Profile [top.gg](https://top.gg/bot/780294659977117718)
+
 _star the repository :)_
 
