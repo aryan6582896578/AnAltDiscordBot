@@ -5,13 +5,11 @@ Source Code Of The Verified Discord Bot [AnAlt#9507](https://discord.com/api/oau
 
 No Longer Updated
 
-if you would like to add any command to the bot let us know 
-
 Written in Javascript using [Discord.js](https://github.com/discordjs/discord.js)
 
-for other questions/Copyright Problem join [discord server](https://discord.gg/2YJxNtmpAd)
+for other questions join [discord server](https://discord.gg/2YJxNtmpAd)
 
 Bot Profile [top.gg](https://top.gg/bot/780294659977117718)
 
-_star the repository :)_
+
 
